@@ -1,0 +1,151 @@
+customer_id,customer_name,segment
+CUST-001,Pelanggan 1,Consumer
+CUST-002,Pelanggan 2,
+CUST-003,Pelanggan 3,Home Office
+CUST-004,Pelanggan 4,Corporate
+CUST-005,Pelanggan 5,Consumer
+CUST-006,Pelanggan 6,Consumer
+CUST-007,Pelanggan 7,Consumer
+CUST-008,Pelanggan 8,CONSUMER
+CUST-009,Pelanggan 9,Corporate
+CUST-010,Pelanggan 10,Home Office
+CUST-011,Pelanggan 11,Consumer
+CUST-012,Pelanggan 12,
+CUST-013,Pelanggan 13,CONSUMER
+CUST-014,Pelanggan 14,Consumer
+CUST-015,Pelanggan 15,Consumer
+CUST-016,Pelanggan 16,Consumer
+CUST-017,Pelanggan 17,Consumer
+CUST-018,Pelanggan 18,Corporate
+CUST-019,Pelanggan 19,Corporate
+CUST-020,Pelanggan 20,Consumer
+CUST-021,Pelanggan 21,Corporate
+CUST-022,Pelanggan 22,Consumer
+CUST-023,Pelanggan 23,Consumer
+CUST-024,Pelanggan 24,Consumer
+CUST-025,Pelanggan 25,Corporate
+CUST-026,Pelanggan 26,Home Office
+CUST-027,Pelanggan 27,Consumer
+CUST-028,Pelanggan 28,Corporate
+CUST-029,Pelanggan 29,Corporate
+CUST-030,Pelanggan 30,Consumer
+CUST-031,Pelanggan 31,Corporate
+CUST-032,Pelanggan 32,Consumer
+CUST-033,Pelanggan 33,Consumer
+CUST-034,Pelanggan 34,home office 
+CUST-035,Pelanggan 35,
+CUST-036,Pelanggan 36,CONSUMER
+CUST-037,Pelanggan 37,Consumer
+CUST-038,Pelanggan 38,Consumer
+CUST-039,Pelanggan 39,Corporate
+CUST-040,Pelanggan 40,Corporate
+CUST-041,Pelanggan 41,Consumer
+CUST-042,Pelanggan 42,Corporate
+CUST-043,Pelanggan 43,Consumer
+CUST-044,Pelanggan 44,home office 
+CUST-045,Pelanggan 45,Consumer
+CUST-046,Pelanggan 46,Corporate
+CUST-047,Pelanggan 47,Consumer
+CUST-048,Pelanggan 48,Corporate
+CUST-049,Pelanggan 49,Corporate
+CUST-050,Pelanggan 50,Consumer
+CUST-051,Pelanggan 51,
+CUST-052,Pelanggan 52,Home Office
+CUST-053,Pelanggan 53,home office 
+CUST-054,Pelanggan 54,CONSUMER
+CUST-055,Pelanggan 55,Corporate
+CUST-056,Pelanggan 56,home office 
+CUST-057,Pelanggan 57,Consumer
+CUST-058,Pelanggan 58,Consumer
+CUST-059,Pelanggan 59,Consumer
+CUST-060,Pelanggan 60,Consumer
+CUST-061,Pelanggan 61,Consumer
+CUST-062,Pelanggan 62,Consumer
+CUST-063,Pelanggan 63,CONSUMER
+CUST-064,Pelanggan 64,Consumer
+CUST-065,Pelanggan 65,Consumer
+CUST-066,Pelanggan 66,Corporate
+CUST-067,Pelanggan 67,Consumer
+CUST-068,Pelanggan 68,CONSUMER
+CUST-069,Pelanggan 69,Consumer
+CUST-070,Pelanggan 70,
+CUST-071,Pelanggan 71,Home Office
+CUST-072,Pelanggan 72,Consumer
+CUST-073,Pelanggan 73,Consumer
+CUST-074,Pelanggan 74,CONSUMER
+CUST-075,Pelanggan 75,Home Office
+CUST-076,Pelanggan 76,Home Office
+CUST-077,Pelanggan 77,Home Office
+CUST-078,Pelanggan 78,Consumer
+CUST-079,Pelanggan 79,Consumer
+CUST-080,Pelanggan 80,Consumer
+CUST-081,Pelanggan 81,CONSUMER
+CUST-082,Pelanggan 82,Corporate
+CUST-083,Pelanggan 83,Consumer
+CUST-084,Pelanggan 84,Consumer
+CUST-085,Pelanggan 85,Consumer
+CUST-086,Pelanggan 86,Consumer
+CUST-087,Pelanggan 87,Home Office
+CUST-088,Pelanggan 88,Corporate
+CUST-089,Pelanggan 89,CONSUMER
+CUST-090,Pelanggan 90,Corporate
+CUST-091,Pelanggan 91,Consumer
+CUST-092,Pelanggan 92,Home Office
+CUST-093,Pelanggan 93,Home Office
+CUST-094,Pelanggan 94,Corporate
+CUST-095,Pelanggan 95,Home Office
+CUST-096,Pelanggan 96,Corporate
+CUST-097,Pelanggan 97,Corporate
+CUST-098,Pelanggan 98,Corporate
+CUST-099,Pelanggan 99,Consumer
+CUST-100,Pelanggan 100,Consumer
+CUST-101,Pelanggan 101,Consumer
+CUST-102,Pelanggan 102,Corporate
+CUST-103,Pelanggan 103,Consumer
+CUST-104,Pelanggan 104,Corporate
+CUST-105,Pelanggan 105,home office 
+CUST-106,Pelanggan 106,Consumer
+CUST-107,Pelanggan 107,Corporate
+CUST-108,Pelanggan 108,Home Office
+CUST-109,Pelanggan 109,Consumer
+CUST-110,Pelanggan 110,Consumer
+CUST-111,Pelanggan 111,Consumer
+CUST-112,Pelanggan 112,Consumer
+CUST-113,Pelanggan 113,home office 
+CUST-114,Pelanggan 114,CONSUMER
+CUST-115,Pelanggan 115,Corporate
+CUST-116,Pelanggan 116,CONSUMER
+CUST-117,Pelanggan 117,CONSUMER
+CUST-118,Pelanggan 118,Consumer
+CUST-119,Pelanggan 119,CONSUMER
+CUST-120,Pelanggan 120,Corporate
+CUST-121,Pelanggan 121,CONSUMER
+CUST-122,Pelanggan 122,CONSUMER
+CUST-123,Pelanggan 123,Consumer
+CUST-124,Pelanggan 124,Consumer
+CUST-125,Pelanggan 125,Consumer
+CUST-126,Pelanggan 126,Corporate
+CUST-127,Pelanggan 127,CONSUMER
+CUST-128,Pelanggan 128,CONSUMER
+CUST-129,Pelanggan 129,Consumer
+CUST-130,Pelanggan 130,Corporate
+CUST-131,Pelanggan 131,Corporate
+CUST-132,Pelanggan 132,Consumer
+CUST-133,Pelanggan 133,Consumer
+CUST-134,Pelanggan 134,Consumer
+CUST-135,Pelanggan 135,home office 
+CUST-136,Pelanggan 136,Consumer
+CUST-137,Pelanggan 137,Corporate
+CUST-138,Pelanggan 138,Home Office
+CUST-139,Pelanggan 139,Consumer
+CUST-140,Pelanggan 140,
+CUST-141,Pelanggan 141,
+CUST-142,Pelanggan 142,Consumer
+CUST-143,Pelanggan 143,Corporate
+CUST-144,Pelanggan 144,Consumer
+CUST-145,Pelanggan 145,Consumer
+CUST-146,Pelanggan 146,Consumer
+CUST-147,Pelanggan 147,Corporate
+CUST-148,Pelanggan 148,Corporate
+CUST-149,Pelanggan 149,Consumer
+CUST-150,Pelanggan 150,Consumer

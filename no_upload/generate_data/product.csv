@@ -1,0 +1,28 @@
+product_id,product_name,category
+PRD-001,Smartphone Polytron X,ELECTRONICS
+PRD-002,Laptop Axioo MyBook,ELECTRONICS
+PRD-003,Tablet Advan Sketsa,ELECTRONICS
+PRD-004,Smart TV Aqua 32 Inch,ELECTRONICS
+PRD-005,Monitor LED Advance 24,ELECTRONICS
+PRD-006,Speaker Aktif Polytron,ELECTRONICS
+PRD-007,Sofa Minimalis Jepara,Furniture 
+PRD-008,Meja Makan Kayu Jati,Furniture 
+PRD-009,Lemari Pakaian Sliding,Furniture 
+PRD-010,Kursi Kerja Ergonomis,Furniture 
+PRD-011,Rak Buku Kayu Minimalis,Furniture 
+PRD-012,Springbed Olympic No 2,Furniture 
+PRD-013,Rice Cooker Cosmos,home appliances
+PRD-014,Dispenser Denpoo,home appliances
+PRD-015,Blender Miyako 3 in 1,home appliances
+PRD-016,Kipas Angin Maspion,home appliances
+PRD-017,Air Fryer Mito Digifry,home appliances
+PRD-018,Kemeja Batik Premium,Clothing
+PRD-019,Hijab Voal Eksklusif,Clothing
+PRD-020,Kaos Polos Cotton Combed,Clothing
+PRD-021,Jaket Parka Erigo,Clothing
+PRD-022,Celana Chino Lokal,Clothing
+PRD-023,Sepeda Lipat Element,Sports
+PRD-024,Matras Yoga Speeds,Sports
+PRD-025,Raket Badminton Specs,Sports
+PRD-026,Sepatu Lari Mills,Sports
+PRD-027,Jersey Timnas Mills,Sports
