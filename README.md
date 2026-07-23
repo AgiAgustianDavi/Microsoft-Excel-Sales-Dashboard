@@ -13,7 +13,7 @@ Sebuah proyek analisis data ritel interaktif menggunakan **Excel** dan **SQL Dat
 ## Langkah-Langkah Pembuatan Dashboard
 
 <details>
-<summary><b>Klik di sini untuk melihat langkah-langkah pembuatan scara umum (SQL, Power Query, & Formula)</b></summary>
+<summary><b>Klik di sini untuk melihat langkah-langkah pembuatan (SQL, Power Query, & Formula)</b></summary>
 
 <br>
 
