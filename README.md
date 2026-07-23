@@ -32,5 +32,5 @@ Setelah data didapatkan, proses selanjutnya adalah mempersiapkan data supaya dat
 - Normalisasi dan konsistensi penulisan data kategorikal
 - Mengatasi data kosong (Null Value)
 - Mengatasi nilai outlier
-![screenshoot power query 1](assets/power_query.png)
+![screenshoot power query 1](assets/power_query1.png)
 ![screenshoot power query 2](assets/power_query2.png)
