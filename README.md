@@ -19,7 +19,7 @@ Sebuah proyek analisis data ritel interaktif menggunakan **Excel** dan **SQL Dat
 
 ### 1. Penarikan Data dari Database (SQL)
 
-Proses diawali dengan melakukan querying data transaksi penjualan dari database SQL (Postgresql) relasional. Proses ini menggunakan Python sebagai penghubung dengan database, kemudian melakukan query data di dalam kode python tersebut. Selengkapnya ada di file [](get_data_from_database.ipynb)
+Proses diawali dengan melakukan querying data transaksi penjualan dari database SQL (Postgresql) relasional. Proses ini menggunakan Python sebagai penghubung dengan database, kemudian melakukan query data di dalam kode python tersebut. Selengkapnya ada di file [get_data_from_database.ipynb](get_data_from_database.ipynb)
 ![screenshot query sql](assets/query_sql.png)
 
 <br>
