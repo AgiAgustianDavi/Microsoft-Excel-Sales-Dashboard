@@ -46,16 +46,17 @@ Setelah itu, dilanjutkan dengan feature engineering, seperti membuat kolom Sales
 
 ### 3. Perhitungan KPI & Pembuatan Grafik
 
-Tahap berikutnya adalah melakukan penghitungan KPI & grafik dengan mengandalkan berbagai fitur pada Microsoft Excel, mulai dari Formula, Pivot Table, Name manager, Slicer, Insert Graph, dll.
+Tahap berikutnya adalah melakukan penghitungan KPI & grafik dengan mengandalkan berbagai fitur pada Microsoft Excel, mulai dari Formula, Pivot Table, Name manager, Slicer, Insert Graph, dll. Proses yang disajikan hanya beberapa bagian. untuk lengkapnya silahkan buka file [dashboard_sales.xlsx](dashboard_sales.xlsx)
+
 - Membuat Pivot tabel master untuk mempermudah proses perhitungan dan pembuatan slicer
   
 ![Screenshot pivot tabel master](assets/pivot_table_master.png)
 
-- Membuat proses perhitungan KPI
+- Membuat proses perhitungan KPI. <br>Proses dilakukan dengan memanfaatkan fitur formula pada microsoft excel seperti IF, SUMIFS, COUNTIFS, VLOOKUP, dll.
   
 ![Screenshot proses pembuatan kpi](assets/kpi.png)
 
-- Membuat tabel untuk line chart dinamis. Proses ini juga memanfaatkan fitur name manager untuk membuat line chart peka terhadap perubahan tahun atau bulan dari slicer
+- Membuat tabel untuk line chart dinamis. <br>Proses ini juga memanfaatkan fitur name manager untuk membuat line chart peka terhadap perubahan tahun atau bulan dari slicer
   
 ![Screenshot formula line chart](assets/dinamic_line_chart.png)
 
